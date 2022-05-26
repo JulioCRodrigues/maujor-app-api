@@ -1,1 +1,61 @@
-
+[
+  {
+    "id": 1,
+    "name": "Julio Rodrigues",
+    "points": 10
+  },
+  
+  {
+    "id": 2,
+    "name": "Julio Rodrigues",
+    "points": 10
+  },
+  
+  {
+    "id": 3,
+    "name": "Pedro Martins",
+    "points": 7
+  },
+  
+  {
+    "id": 4,
+    "name": "Luciano Raminelli",
+    "points": 10
+  },
+  
+  {
+    "id": 5,
+    "name": "Maria de Fátima",
+    "points": 6
+  },
+  
+  {
+    "id": 6,
+    "name": "Celso Junior",
+    "points": 4
+  },
+  
+  {
+    "id": 7,
+    "name": "Stivison Gabriel",
+    "points": 8
+  },
+ 
+  {
+    "id": 8,
+    "name": "Lourdes Silva",
+    "points": 4
+  },
+  
+  {
+    "id": 9,
+    "name": "Kleomira Santos",
+    "points": 1
+  },
+  
+  {
+    "id": 10,
+    "name": "Jucelino Moura",
+    "points": 2
+  }
+]
